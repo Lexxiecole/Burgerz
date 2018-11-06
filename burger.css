@@ -1,0 +1,76 @@
+
+#body {
+    background: #DEE4F3;
+    text-align: center;
+}
+
+#sasquatch {
+    font-family: "pacifico", cursive;
+    color: #CA4250;
+    background: #DEE4F3;
+}
+
+#bbq {
+    font-family: 'Playfair Display', serif;
+}
+
+#menu {
+    font-family: 'Pacifico', cursive;
+    color: #3F5978
+
+}
+
+#alligator {
+    font-family: 'Playfair Display', serif; 
+
+}
+
+#spoon {
+    font-family: 'Amiri', serif;   
+
+}
+
+#issue {
+    font-family: 'Pacifico', cursive;  
+    color: #CA4250;
+}
+
+#add {
+    font-family: 'Playfair Display', serif;  
+}
+
+#better {
+    font-family: 'Amiri', serif;   
+}
+
+#menuDiv {
+    border: solid;
+    width: 33%;
+    background: #E9E5CB;
+    text-align: center;
+    align: center;
+}
+
+#nose {
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+
+
+
+/* 
+<link href="https://fonts.googleapis.com/css?family=Amiri|Pacifico|Playfair+Display|Scheherazade" rel="stylesheet">
+
+font-family: 'Pacifico', cursive;           ---- headings!
+font-family: 'Playfair Display', serif;     ---- body text!!
+font-family: 'Amiri', serif;                ---- buttons!
+font-family: 'Scheherazade', serif;         ---- txt for bottom of the page!!
+
+
+
+#E9E5CB -- white
+#3F5978 -- rblue
+#CA4250 --red
+#DEE4F3 -- grey
